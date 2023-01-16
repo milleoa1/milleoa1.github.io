@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Owen Miller is a former commercial fisherman and undergraduate engineering student at Vanderbilt University. He is interested in gaining experience in any field whether that be research and development, manufacuturing, and/or management. "
+excerpt: "Owen is a former commercial fisherman and undergraduate engineering student at Vanderbilt University. He is interested in gaining experience in any field whether that be research and development, manufacuturing, and/or management. "
 feature_row:
   - image_path: assets/img/Side by Side With Ejector Pins Cropped.jpg
     alt: "Injection Mold"
