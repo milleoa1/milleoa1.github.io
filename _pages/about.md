@@ -6,26 +6,27 @@ title: "About David Florian"
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Owen has developed a strong work ethic through years of commercial fishing, this has allowed him to maintain an excellent academic record while attending Vanderbilt University. His relevant coursework are Organic Chemistry, Applied Behavioral Science, and Additive Polymer Based Manufacturing.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+* Vanderbilt University (2021 - Present)
+  * B.Eng. Chemical Engineering
+  * Minoring in Chemistry, Engineering Management, and Digital Fabrication
+  * Anticipated Graduation in May 2025
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+At Vanderbilt, Owen has taken coursework that has developed and refined his skills in using different additive manufacutring techniques and the Fusion 360 CAD software. Owen has experience in the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
 * Stereolithography (SLA)
 * Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
 
-## Press 
+Owen also has gained experience operating hydraulics during his time as a commercial fisherman. He has experience in using the following:
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+* Hydraulic Winches
+* Hydraulic Power Blocks
+* Crab Blocks and Capstans
+* Hydraulic/Engine Maintenance
+
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
