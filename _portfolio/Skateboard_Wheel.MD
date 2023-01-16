@@ -1,6 +1,6 @@
 ---
 title: "Custom Skateboard Wheel Injection Mold"
-excerpt: "Creating a injection mold assembly for a custom designed skateboard wheel"
+excerpt: "Creating a injection mold assembly for a custom designed skateboard wheel."
 header:
   image: /assets/img/Side by Side With Ejector Pins Cropped.jpg
   teaser: /assets/img/Side by Side With Ejector Pins Cropped.jpg
