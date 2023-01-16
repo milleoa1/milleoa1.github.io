@@ -2,8 +2,8 @@
 title: "Custom Skateboard Wheel Injection Mold"
 excerpt: "Creating a injection mold assembly for a custom designed skateboard wheel"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/Side by Side With Ejector Pins Cropped.jpg
+  teaser: /assets/img/Side by Side With Ejector Pins Cropped.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
