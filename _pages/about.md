@@ -1,6 +1,6 @@
 ---
 
-title: "About David Florian"
+title: "About Owen Miller"
 
 ---
 
@@ -11,6 +11,7 @@ Owen has developed a strong work ethic through years of commercial fishing, this
 * Vanderbilt University (2021 - Present)
   * B.Eng. Chemical Engineering
   * Minoring in Chemistry, Engineering Management, and Digital Fabrication
+  * Dean's List Award in Fall 2021, Spring 2022, Fall 2022
   * Anticipated Graduation in May 2025
 
 ## Technical Skills
@@ -20,13 +21,23 @@ At Vanderbilt, Owen has taken coursework that has developed and refined his skil
 * Fused Filament Fabrication (FFF)
 * Stereolithography (SLA)
 * Selective Laser Sintering (SLS)
+* Injection Molding
 
-Owen also has gained experience operating hydraulics during his time as a commercial fisherman. He has experience in using the following:
+## Work Experience and Leadership
 
-* Hydraulic Winches
-* Hydraulic Power Blocks
-* Crab Blocks and Capstans
-* Hydraulic/Engine Maintenance
+Owen has last three summers commercial salmon fishing on the F/V Miss Lori based out of Kodiak, Alaska. Although everyone on board is capable of completing all necessary tasks, Owen specialized in the following:
 
+* Developing and maintaining an inventory of all items on-board
+* Performing and assisting with general maintenance of on-board systems
+* Operating hydraulics and "running the deck" to ensure proper procurement of fish
+* Repair and troubleshooting of electronic navigation technology
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+His efforts, coupled with those of the other crew, helped the F/V Miss Lori procure at least 700,000 pounds of wild Alaskan salmon and be in the top 20 boats in the Kodiak Management Area in terms of landings by weight.
+
+[//]: # (This should be of fishing picture)
+<img src="/assets/img/Owen Miller F22 Headshot.JPG" alt="Owen Miller" style="width:200px;"/>
+
+During the fall and spring semesters, Owen is extremely active in the Vanderbilt Athletic Bands. During the 2022 NCAA Football Season, Owen was chosen to be the Euphonium Seciton Leader for the Vanderbilt Spirit of Gold Marching Band. In this he had to teach and develop those in his section into better people and players while also communicating any problems to directorial staff in order to quickly create a solution.
+
+[//]: # (This should be of either section or band headshot)
+<img src="/assets/img/Owen Miller F22 Headshot.JPG" alt="Owen Miller" style="width:200px;"/>
