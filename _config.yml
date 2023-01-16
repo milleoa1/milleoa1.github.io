@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
+  avatar           : "assets/img/Owen Miller F22 Headshot.JPG"
   bio              : "A commerical fisherman turned student and engineer "
   location         : "Nashville, TN"
   links:
