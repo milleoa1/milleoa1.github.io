@@ -10,17 +10,10 @@ header:
       url: "/portfolio/"
 excerpt: "Owen Miller is a former commercial fisherman and undergraduate engineering student at Vanderbilt University. He interested in gaining experience in any field whether that be research and development, manufacuturing, and/or management. "
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/Side by Side With Ejector Pins Cropped.jpg
+    alt: "Injection Mold"
+    title: "Injection Mold for Custom Skateboard Wheel"
+    excerpt: "Creating a injection mold assembly for a custom designed skateboard wheel. "
 ---
 
 {% include feature_row %}
