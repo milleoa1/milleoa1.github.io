@@ -25,6 +25,8 @@ At Vanderbilt, Owen has taken coursework that has developed and refined his skil
 
 ## Work Experience and Leadership
 
+# Salmon Fishing
+
 Owen has last three summers commercial salmon fishing on the F/V Miss Lori based out of Kodiak, Alaska. Although everyone on board is capable of completing all necessary tasks, Owen specialized in the following:
 
 * Developing and maintaining an inventory of all items on-board
@@ -36,6 +38,8 @@ His efforts, coupled with those of the other crew, helped the F/V Miss Lori proc
 
 <img src="/assets/img/Website_Fish_Picture.JPG" alt="Owen Miller" style="width:200px;"/>
 
-During the fall and spring semesters, Owen is extremely active in the Vanderbilt Athletic Bands. During the 2022 NCAA Football Season, Owen was chosen to be the Euphonium Seciton Leader for the Vanderbilt Spirit of Gold Marching Band. In this he had to teach and develop those in his section into better people and players while also communicating any problems to directorial staff in order to quickly create a solution.
+# Vanderbilt Athletic Bands
 
-<img src="/assets/img/SOG_Euph_2022_Section.jpg" alt="Owen Miller" style="width:200px;"/>
+During the fall and spring semesters, Owen is extremely active in the Vanderbilt Athletic Bands. During the 2022 NCAA Football Season, Owen was chosen to be the Euphonium Seciton Leader for the Vanderbilt Spirit of Gold Marching Band. In this he had to teach and develop those in his section into better people and players while also communicating any problems to directorial staff in order to quickly create a solution. He has also doubled contracted (will attend every home game) with the Anchor of Sound Basketball Band.
+
+![SOG Euphonium Section 2022](/assets/img/SOG_Euph_2022_Section.jpg)
