@@ -34,10 +34,8 @@ Owen has last three summers commercial salmon fishing on the F/V Miss Lori based
 
 His efforts, coupled with those of the other crew, helped the F/V Miss Lori procure at least 700,000 pounds of wild Alaskan salmon and be in the top 20 boats in the Kodiak Management Area in terms of landings by weight.
 
-[//]: # (This should be of fishing picture)
-<img src="/assets/img/Owen Miller F22 Headshot.JPG" alt="Owen Miller" style="width:200px;"/>
+<img src="/assets/img/Website_Fish_Picture.JPG" alt="Owen Miller" style="width:200px;"/>
 
 During the fall and spring semesters, Owen is extremely active in the Vanderbilt Athletic Bands. During the 2022 NCAA Football Season, Owen was chosen to be the Euphonium Seciton Leader for the Vanderbilt Spirit of Gold Marching Band. In this he had to teach and develop those in his section into better people and players while also communicating any problems to directorial staff in order to quickly create a solution.
 
-[//]: # (This should be of either section or band headshot)
-<img src="/assets/img/Owen Miller F22 Headshot.JPG" alt="Owen Miller" style="width:200px;"/>
+<img src="/assets/img/SOG_Euph_2022_Section.jpg" alt="Owen Miller" style="width:200px;"/>
