@@ -45,7 +45,7 @@ The mold was designed to have radial runners coming out of the initial sprue. Th
 
 ## Report
 
-[Here] (https://drive.google.com/file/d/1t5oSWcUjwoUJLbE995NWpkLBb8WzHlj5/view?usp=share_link) is the link to the report associated to this project.
+[Here is the report associated with this project.](https://drive.google.com/file/d/1t5oSWcUjwoUJLbE995NWpkLBb8WzHlj5/view?usp=share_link)
 
 
 {% include gallery caption="This is a gallery to go along with this project." %}
