@@ -1,6 +1,6 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Custom Skateboard Wheel Injection Mold"
+excerpt: "Creating a injection mold assembly for a custom designed skateboard wheel"
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
