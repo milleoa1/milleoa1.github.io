@@ -33,7 +33,7 @@ This is a project that I completed for the Additive Polymer Based Manufacturing 
 
 I originally designed this wheel to be a mix between an offroading and street wheel. This was done by choosing a TPU with a shore hardness of 82A. The biggest constraint with this project was that it had to be tailored to the APSX-PIM Desktop Injection Molding Machine. This injection molding machine only had a shot volume of 30 cubic centimeters, which is much smaller than the typical skateboard wheel. To meet this requirement, numerous cutouts were made in the bulk of the wheel.
 
-![Wheel Design] (/assets/img/Wheel Side Render Cropped.jpg)
+![Wheel Design](assets/img/Wheel Side Render Cropped.jpg)
 
 ## Mold Design
 
@@ -45,7 +45,8 @@ The mold was designed to have radial runners coming out of the initial sprue. Th
 
 ## Report
 
-[Here is the report associated with this project.](https://drive.google.com/file/d/1t5oSWcUjwoUJLbE995NWpkLBb8WzHlj5/view?usp=share_link)
+Here is the report associated with this project.
+<https://drive.google.com/file/d/1t5oSWcUjwoUJLbE995NWpkLBb8WzHlj5/view?usp=share_link>
 
 
 {% include gallery caption="This is a gallery to go along with this project." %}
