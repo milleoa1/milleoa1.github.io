@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Owen is a former commercial fisherman and undergraduate engineering student at Vanderbilt University. He is interested in gaining experience in any field whether that be research and development, manufacuturing, and/or management. "
+excerpt: "Hey there, I'm Owen – a former commercial fisherman and currently an undergraduate engineering student at Vanderbilt University. I'm driven by a curiosity to explore various fields, and I'm eager to gain experience in R&D, manufacturing, and management."
 feature_row:
   - image_path: assets/img/Side by Side With Ejector Pins Cropped.jpg
     alt: "Injection Mold"
