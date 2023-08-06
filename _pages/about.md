@@ -1,4 +1,3 @@
-# About Owen Miller
 
 Hello there! I'm Owen Miller, a passionate Chemical Engineering student with a diverse background in commercial fishing and manufacturing. Here's a glimpse of my education, technical skills, work experience, and leadership roles:
 
